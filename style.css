@@ -116,7 +116,7 @@ section{
 }
 
 .row p{
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .row .col50{
@@ -161,7 +161,7 @@ section{
 }
 
 .title p{
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .menu .content{
@@ -210,6 +210,10 @@ section{
     flex-direction: row;
     flex-wrap: wrap;
     margin-top: 40px;
+}
+
+.title p {
+    font-size: 20px;
 }
 
 .expert .content .box{
@@ -284,14 +288,14 @@ section{
 }
 
 .testi .text h3{
-    text-align: right;
+    text-align: center;
     color: rgb(250, 31, 122);
     font-weight: 600;
 }
 
 .testi .text p{
     padding: 5px;
-    font-size: 17px;
+    font-size: 18px;
     font-style: italic;
 }
 
